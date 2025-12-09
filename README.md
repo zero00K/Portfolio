@@ -64,11 +64,11 @@ This list includes the top reports from my participation in contests and attacka
 
 | Contest                | status                               | work Duration | Severity | Report                 | Platform                          |
 | ---------------------- | ------------------------------------ | ------------- | -------- | ---------------------- | --------------------------------- |
-| APE coin               | PAID                                 | 12 days       | Medium   | soon               | [Immunefi](https://immunefi.com/) |
+| APE coin               | PAID                                 | 12 days       | Medium   | waiting for permission               | [Immunefi](https://immunefi.com/) |
 | waiting for permission | NOT PAID (non-mentioned known issue) | 6 days        | Critical | waiting for permission | [Immunefi](https://immunefi.com/) |
-| waiting for permission | PAID                                 | 6 days        | Low      | waiting for approval   | [Immunefi](https://immunefi.com/) |
-| waiting for permission | PAID                                 | 15 days       | Medium   | waiting for approval   | [Immunefi](https://immunefi.com/) |
-| waiting for permission | PAID                                 | 4 days        | Low      | waiting for approval   | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 6 days        | Low      | waiting for permission   | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 15 days       | Medium   | waiting for permission   | [Immunefi](https://immunefi.com/) |
+| waiting for permission | PAID                                 | 4 days        | Low      | waiting for permission   | [Immunefi](https://immunefi.com/) |
 
 ## private audit
 

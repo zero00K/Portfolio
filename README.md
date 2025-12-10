@@ -26,6 +26,7 @@ I'm security researcher with two years of experience in the Web3 security field.
 | **Solidity** | ⚡⚡⚡⚡⚡  |
 | **EVM**      | ⚡⚡⚡⚡⚡  |
 | **sway**     | ⚡⚡⚡⚡⚡  |
+| **cairo**     | ⚡⚡⚡ |
 | **fuel VM**  | ⚡⚡⚡⚡⚡  |
 | **DEFI(perp, lend-borrow, AMM, LST, LRT, stablecoin, etc...)**     | ⚡⚡⚡⚡⚡  |
 
